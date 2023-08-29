@@ -12,9 +12,27 @@ Elect one of you to be the one that will document the requirment specs. They sho
 
 ## System Requirements 
 
-...
+100 Mbs space
+Windows 7 or later
+Pentium 4 Processor or later
+4 Gbs RAM
+
+100 Mbs space
+Macbook 2020 or later
+macOS High Sierra 10.13 or later
+
+
+100 Mbs space
+Linux 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32
+An Intel Pentium 4 processor or later that's SSE3 capable
+
+100 Mbs space
+Android 2020 or later
+Android 7.0 Nougat
 
 ## User Requirements 
+
+
 
 ### Functional 
 
@@ -22,4 +40,4 @@ Elect one of you to be the one that will document the requirment specs. They sho
 
 ### Non-functional
 
-...
+Recipes accessible offline
